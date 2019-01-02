@@ -1,7 +1,9 @@
 
 # React Example
 
-Webpack loading ES6 and React with JSX
+Boilerplate project.
+
+Webpack loading ES6 and React with JSX.
 
 Setup:
 
