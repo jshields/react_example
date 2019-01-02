@@ -1,4 +1,4 @@
-const path = require('path');  // TODO change to ES6 import syntax if possible
+const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 
